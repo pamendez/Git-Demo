@@ -14,5 +14,5 @@ Este repositorio es parte de la tarea de "Manejo de Git" de la asignatura de Ten
 Si desea clonar este repositorio, simplemente abra su terminal y ejecute el siguiente comando:
 
 ```
-git clone <ADD LINK HERE>
+git clone https://github.com/pamendez/Git-Demo
 ```
