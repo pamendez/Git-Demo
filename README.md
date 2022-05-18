@@ -5,10 +5,10 @@ Este repositorio es parte de la tarea de "Manejo de Git" de la asignatura de Ten
 
 1. Crear repositorio local -- Finalizado
 2. Agregar archivos -- Finalizado
-3. CERrear repositorio remoto en GitHub -- No finalizado
-4. Enlazar local con remoto -- No finalizado
-5. Commit y push -- No inalizado
-6. Fetch y pull -- No finalizado
+3. Crear repositorio remoto en GitHub -- Finalizado
+4. Enlazar local con remoto -- Finalizado
+5. Commit y push -- Finalizado
+6. Fetch y pull -- Finalizado
 
 ## Instalacion 
 Si desea clonar este repositorio, simplemente abra su terminal y ejecute el siguiente comando:
